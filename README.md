@@ -1,6 +1,5 @@
 === WP Float ===
 Contributors: samhagin
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CMGALCCS6UUZN
 Plugin link: http://webwiki.co
 Tags: float anything, float menu, float, fixed menu, advertisement, text
 Requires at least: 2.8
